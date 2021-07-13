@@ -1,7 +1,10 @@
 # Tolani_Portfolio
 My Data Science Portfolio
 
-# [Project: Diabetes Prediction: Project Overview](https://github.com/Tolani07/Diabetes-Prediction/blob/main/Diabetes%20Prediction.ipynb)
+# [Project 1: Diabetes Prediction: Project Overview](https://github.com/Tolani07/Diabetes-Prediction/blob/main/Diabetes%20Prediction.ipynb)
 * Created a model to help predict the likelihood of a patient having daibetes based on clinical measures.
 * Utilized open source data from Kaggle.
 * Utilized Logistic Regression in this model.  
+
+
+# [Project 2: Exploratory Data Analysis: Project Overview].(https://github.com/Tolani07/EDA-911-Calls)
