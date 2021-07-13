@@ -7,4 +7,7 @@ My Data Science Portfolio
 * Utilized Logistic Regression in this model.  
 
 
-# [Project 2: Exploratory Data Analysis: Project Overview].(https://github.com/Tolani07/EDA-911-Calls)
+# [Project 2: Exploratory Data Analysis: Project Overview].(https://github.com/Tolani07/EDA-911-Calls/blob/main/Emergency%20911%20Call%20EDA.ipynb)
+* Explorartory data analysis (EDA) of 911 call data from Montgomery County, PA
+* Data obtained from kaggle "Emergency-911 Calls"
+* visualization was perfromed using seaborn
