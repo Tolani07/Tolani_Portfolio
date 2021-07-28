@@ -11,3 +11,8 @@ My Data Science Portfolio
 * Explorartory data analysis (EDA) of 911 call data from Montgomery County, PA
 * Data obtained from kaggle "Emergency-911 Calls"
 * visualization was perfromed using seaborn
+
+# [Project 3: Natural Language Processing: Project Overview](https://github.com/Tolani07/Natural-Language-Processing/blob/main/Untitled.ipynb)
+* NLP classification task for customer "star" rating 
+* This project involved the use of Yelp customer rating data from Kaggle
+* Utilized Naive Bayes model for model training
